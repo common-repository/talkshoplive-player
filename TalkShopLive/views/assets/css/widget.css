@@ -1,0 +1,16 @@
+#available-widgets [class*="talk_shop_live_player_widget"] .widget-title:before {
+    content: "\f126";
+    font-size: 17px;
+}
+
+.tsl-widget-title-left {
+    text-align: left;
+}
+
+.tsl-widget-title-right {
+    text-align: right;
+}
+
+.tsl-widget-title-center {
+    text-align: center;
+}
